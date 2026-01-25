@@ -58,8 +58,8 @@ jspm_packages/
 # Yarn Integrity file
 .yarn-integrity
 
-
-
+# Native app files
+native-app/www/save_log.php
 
 
 
